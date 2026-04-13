@@ -1,5 +1,3 @@
-# Proyecto_Inteligencia_Artificial
-
 # Evaluación 1 - Preparación de Datos
 
 ## Contexto
