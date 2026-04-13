@@ -10,7 +10,7 @@ El objetivo del proyecto es **preparar los datos** para desarrollar un modelo pr
 ---
 
 ## Integrantes del grupo
-- 
+- Leandro Flores
 - 
 - 
 
